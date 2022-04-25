@@ -1,0 +1,61 @@
+# ANSWER 1 OUTPUT
+
+Enter first number :25
+Enter second number :35
+Enter third number :30
+Average of given three numbers is : 30.0
+
+Process finished with exit code 0
+
+#ANSWER 2 OUTPUT
+
+Enter your income :40000
+Enter number of dependent :3
+The value of deduction amount is 9000
+The value of Tax is 4200.0
+The value of taxable income is  21000
+
+Process finished with exit code 0
+
+#ANSWER 3 OUTPUT
+
+enter the no. of seconds : 200
+200 converted to = 3 minutes and 20 seconds
+
+Process finished with exit code 0
+
+#ANSWER 4 OUTPUT
+
+<class 'str'> 
+ 75
+
+Process finished with exit code 0
+
+#ANSWER 5 OUTPUT
+
+0 --- sin-> 0.0 , cos-> 1.0
+15 --- sin-> 0.2588 , cos-> 0.9659
+30 --- sin-> 0.5 , cos-> 0.866
+45 --- sin-> 0.7071 , cos-> 0.7071
+60 --- sin-> 0.866 , cos-> 0.5
+75 --- sin-> 0.9659 , cos-> 0.2588
+90 --- sin-> 1.0 , cos-> 0.0
+105 --- sin-> 0.9659 , cos-> -0.2588
+120 --- sin-> 0.866 , cos-> -0.5
+135 --- sin-> 0.7071 , cos-> -0.7071
+150 --- sin-> 0.5 , cos-> -0.866
+165 --- sin-> 0.2588 , cos-> -0.9659
+180 --- sin-> 0.0 , cos-> -1.0
+195 --- sin-> -0.2588 , cos-> -0.9659
+210 --- sin-> -0.5 , cos-> -0.866
+225 --- sin-> -0.7071 , cos-> -0.7071
+240 --- sin-> -0.866 , cos-> -0.5
+255 --- sin-> -0.9659 , cos-> -0.2588
+270 --- sin-> -1.0 , cos-> -0.0
+285 --- sin-> -0.9659 , cos-> 0.2588
+300 --- sin-> -0.866 , cos-> 0.5
+315 --- sin-> -0.7071 , cos-> 0.7071
+330 --- sin-> -0.5 , cos-> 0.866
+345 --- sin-> -0.2588 , cos-> 0.9659
+
+Process finished with exit code 0
