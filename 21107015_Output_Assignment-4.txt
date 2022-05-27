@@ -1,0 +1,51 @@
+# ANSWER 1 OUTPUT
+
+Grading system of a school!
+Enter your marks obtained( out of 100): 60
+Your Grade is: C
+
+
+# ANSWER 2 OUTPUT
+
+Enter any Year:2019
+2019 is not an Leap Year
+
+
+# ANSWER 3 OUTPUT
+
+It's a one to one digit multiplication Game
+Question- 1 : 2 * 6
+Enter your result:12
+Right!
+Question- 2 : 1 * 2
+Enter your result:2
+Right!
+Question- 3 : 2 * 7
+Enter your result:14
+Right!
+Question- 4 : 3 * 9
+Enter your result:27
+Right!
+Question- 5 : 7 * 9
+Enter your result:61
+Wrong! The correct answer is: 63
+Question- 6 : 2 * 9
+Enter your result:17
+Wrong! The correct answer is: 18
+Question- 7 : 7 * 4
+Enter your result:28
+Right!
+Question- 8 : 4 * 8
+Enter your result:22
+Wrong! The correct answer is: 32
+Question- 9 : 2 * 7
+Enter your result:14
+Right!
+Question- 10 : 6 * 9
+Enter your result:54
+Right!
+
+
+# ANSWER 4 OUTPUT
+
+There are total 177  candies in the bowl.
